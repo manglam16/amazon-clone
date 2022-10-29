@@ -13,17 +13,17 @@ This clone is made while I was learning react and redux.
 ## Screenshots
 
 <div align = "left">
-  <img src="">
+  <img src="https://raw.githubusercontent.com/manglam16/amazon-clone/main/screenshots/Screenshot%20(151).png">
 </div>
 <br>
 <div align = "left">
-  <img src="">
+  <img src="https://raw.githubusercontent.com/manglam16/amazon-clone/main/screenshots/Screenshot%20(152).png">
 </div>
 
 <br>
 
 <div align = "left">
-  <img src="">
+  <img src="https://raw.githubusercontent.com/manglam16/amazon-clone/main/screenshots/Screenshot%20(153).png">
 </div>
 
 <br>
