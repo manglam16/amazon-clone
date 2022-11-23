@@ -8,7 +8,7 @@ This clone is made while I was learning react and redux.
 3) Firebase (for deployment and database)
 
 ## Deployment
-<a href = "https://clone-6ff2f.firebaseapp.com/">Hosted Live</a>
+<a target="_blank" href = "https://clone-6ff2f.firebaseapp.com/">Hosted Live</a>
 
 ## Screenshots
 
